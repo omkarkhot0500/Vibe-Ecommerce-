@@ -2,6 +2,14 @@
 
 A complete full-stack shopping cart demo built with React and Node.js, demonstrating end-to-end e-commerce flows including product display, cart management, and checkout with receipt generation.
 
+<img width="1688" height="847" alt="{025D0926-1366-4860-AD06-92E53D4C0793}" src="https://github.com/user-attachments/assets/4e35ddd6-d74a-4f91-adc3-3cbd6f074581" />
+
+<img width="1704" height="756" alt="{F121C332-0F0A-409A-B581-D0BF16BEEAC3}" src="https://github.com/user-attachments/assets/c498db2f-9fbc-45eb-9b44-d60af647c594" />
+
+<img width="1716" height="838" alt="{67C95147-159F-4355-AB4E-7EC42A9C07DD}" src="https://github.com/user-attachments/assets/4d6e3c7d-1853-4c28-8305-0a03fb2c7b48" />
+
+
+
 ## 🚀 Features
 
 - **Product Catalog**: Browse products with images, names, and prices
